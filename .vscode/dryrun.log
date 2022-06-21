@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/cygdrive/c/Users/bensi/Desktop/GameDev/LearningProgram/ProgrammeLearning/C++'
+make: Leaving directory '/cygdrive/c/Users/bensi/Desktop/GameDev/LearningProgram/ProgrammeLearning/C++'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
