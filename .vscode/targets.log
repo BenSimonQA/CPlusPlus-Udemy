@@ -10,7 +10,7 @@ make: *** No rule to make target 'all'.  Stop.
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Sun Jun 19 10:41:22 2022
+# Make data base, printed on Sun Jun 26 08:51:57 2022
 
 # Variables
  
@@ -30,7 +30,7 @@ JMETER_HOME = C:\Program Files\apache-jmeter-5.4\apache-jmeter-5.4
 # environment
 LOCALAPPDATA = C:\Users\bensi\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-c05ee444-caa0-4728-8712-c52d27c1b50f-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-cfec8e43-ce8a-4712-b945-26886448f5ed-sock
 # environment
 VSCODE_CWD = C:\Users\bensi\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -46,7 +46,7 @@ MAKE_COMMAND := make
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_15408_MHMDBMIKVXLCILAN
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_24812_VEQCDDMGEHRYWUEF
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -71,10 +71,11 @@ TMP = /cygdrive/c/Users/bensi/AppData/Local/Temp
 .INCLUDE_DIRS = /usr/include /usr/include
 # makefile
 MAKEFLAGS = pqrR
+ 
 # environment
 ONEDRIVE = C:\Users\bensi\OneDrive
 # makefile
-CURDIR := /cygdrive/c/Users/bensi/Desktop/GameDev/LearningProgram/ProgrammeLearning/C++
+CURDIR := /cygdrive/c/Users/bensi/Desktop/GameDev/LearningProgram/ProgrammeLearning/C++/CPlusPlus-Udemy
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -88,7 +89,7 @@ MFLAGS = -pqrR
 # default
 .SHELLFLAGS := -c
 # environment
-!C: = c:\Users\bensi\Desktop\GameDev\LearningProgram\ProgrammeLearning\C++
+!C: = c:\Users\bensi\Desktop\GameDev\LearningProgram\ProgrammeLearning\C++\CPlusPlus-Udemy
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # automatic
@@ -96,12 +97,11 @@ COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # makefile
 MAKEFILE_LIST := 
 # automatic
- 
 @F = $(notdir $@)
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 15408
+VSCODE_PID = 24812
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # automatic
@@ -186,7 +186,6 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-TED8B4H
 NUMBER_OF_PROCESSORS = 8
 # environment
 PUBLIC = C:\Users\Public
- 
 # environment
 APPDATA = C:\Users\bensi\AppData\Roaming
 # environment
@@ -232,15 +231,14 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
 # Load=105/1024=10%, Rehash=0, Collisions=12/129=9%
 
 # Pattern-specific Variable Values
- 
 
 # No pattern-specific variable values.
 
 # Directories
 
-# . (device 1958998290, inode 42221246506683423): 8 files, no impossibilities.
+# . (device 1958998290, inode 13510798882225800): 13 files, no impossibilities.
 
-# 8 files, no impossibilities in 1 directories.
+# 13 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -290,13 +288,13 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 15 / storage = 148 B / avg = 9 B
-# current buf: size = 8162 B / used = 148 B / count = 15 / avg = 9 B
+# strcache buffers: 1 (0) / strings = 20 / storage = 195 B / avg = 9 B
+# current buf: size = 8162 B / used = 195 B / count = 20 / avg = 9 B
 
-# strcache performance: lookups = 18 / hit rate = 16%
-# hash-table stats:
+# strcache performance: lookups = 23 / hit rate = 13%
  
-# Load=15/8192=0%, Rehash=0, Collisions=0/18=0%
-# Finished Make data base on Sun Jun 19 10:41:22 2022
+# hash-table stats:
+# Load=20/8192=0%, Rehash=0, Collisions=0/23=0%
+# Finished Make data base on Sun Jun 26 08:51:57 2022
 
  
